@@ -1,0 +1,342 @@
+@media screen and (max-width: 376px){
+    div .fixed-top{
+        display: none;
+    }
+}
+@media screen and (max-width: 1300px){
+    div .text{
+        font-size: 4vw;
+    }
+    div .para{
+        top:430px;
+    }
+    div .button{
+        top:520px;
+    }
+
+}
+
+@media screen and (max-width: 1056px){
+    div .text{
+        font-size: 3vw;
+    }
+    div .para{
+        top:350px;
+        font-size:2vw;
+    }
+    div .button{
+        top:440px;
+    }
+
+}
+
+@media screen and (max-width: 913px){
+    div .text{
+        font-size: 2vw;
+        top:150px;
+    }
+    div .para{
+        top:230px;
+        font-size: 1vw;
+    }
+    div .button{
+        top:280px;
+    }
+
+}
+@media screen and (max-width: 616px){
+    div .text{
+        font-size: 2vw;
+        top:60px;
+    }
+    div .para{
+        top:115px;
+        font-size: 1vw;
+    }
+    div .button{
+        top:150px;
+    }
+
+}
+
+
+@media screen and (max-width: 444px){
+    div .text{
+        font-size: 2vw;
+        top:60px;
+        left: 70px;
+        
+    }
+    div .para{
+        top:115px;
+        font-size: 1vw;
+        left: 70px;
+        
+    }
+    div .button{
+        top:150px;
+        left: 70px;
+        
+    }
+
+}
+@media screen and (max-width: 375px){
+    div .text{
+        font-size: 2vw;
+        top:40px;
+        left: 70px;
+        
+    }
+    div .para{
+        top:75px;
+        font-size: 1vw;
+        left: 70px;
+        
+    }
+    div .button{
+        top:100px;
+        left: 70px;
+        font-size: 3px;
+        
+    }
+    div .b-1{
+        font-size: 3px;
+    }
+    div .b-2{
+        font-size: 3px;
+    }
+
+}
+
+@media screen and (max-width: 1141px){
+    div .text-2{
+        font-size: 3vw;
+    }
+    div .text-1{
+        font-size: 2vw;
+    }
+
+
+}
+@media screen and (max-width: 805px){
+    div .text-2{
+        font-size: 2vw;
+        top:70px;
+    }
+    div .text-1{
+        font-size: 1vw;
+    }
+   
+}
+@media screen and (max-width: 506px){
+    div .text-2{
+        font-size: 1vw;
+    }
+
+}
+@media screen and (max-width: 1135px){
+    div .button-2{
+       top:230px;
+    }
+
+}
+@media screen and (max-width: 897px){
+    div .button-2{
+        font-size: 1vw;
+       top:200px;
+    }
+
+}
+@media screen and (max-width: 805px){
+    div .button-2{
+       top:130px;
+       
+    }
+
+}
+@media screen and (max-width: 575px){
+    div .button-2{
+       
+       top:110px;
+       
+    }
+
+}
+@media screen and (max-width: 502px){
+    div .button-2{
+       
+       top:85px;
+       
+    }
+
+}
+@media screen and (max-width: 375px){
+  div .text-1{
+    top:30px;
+  }
+  div .text-2{
+    top:40px;
+  }
+  div .button-2{
+    top:55px;
+  }
+
+}
+
+@media screen and (max-width: 375px){
+
+    div .parap{
+       
+        text-align: center;
+      }
+}
+
+@media screen and (max-width: 375px){
+div .about{
+    font-size: 8vw;
+    margin-right: 1rem;
+}
+
+@media screen and (max-width: 376px){
+div .img-6{
+    display: flex;
+    justify-content: center;
+}
+div .image-5{
+    display: flex;
+    
+    margin-left: 90px;
+}
+div .txt{
+    text-align: center;
+    font-size:15px;
+}
+div .btn-10
+{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.nav{
+    background-color: rgb(223, 132, 162);
+}
+
+
+
+
+
+
+
+}
+}
+.navbar-nav{
+    position: relative;
+    /* left: 500px; */
+}
+
+.container-fluid
+{
+    position: relative;
+    padding: 0px;
+
+}
+.text
+{
+    top: 200px;
+    left: 220px;
+    font-size:60px;
+    position: absolute;
+    color:white;
+    font-weight: bold;
+}
+.para
+{
+    top: 500px;
+    left: 220px;
+    font-size:20px;
+    position: absolute;
+    color:white;
+}
+.button
+{
+    top: 620px;
+    left: 220px;
+    position: absolute;
+}
+.containers
+{
+    position:relative;
+}
+.img
+{
+    mix-blend-mode:darken;
+    position: relative;
+   
+}
+.text-1
+{
+    left: 100px;
+    position: absolute;
+    top:60px;
+    color: white;
+}
+.text-2
+{
+   
+    left: 100px;
+    position: absolute;
+    top:120px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.button-2
+{
+    position:absolute;
+    top:280px;
+    left: 100px;
+}
+div .b-3{
+    font-size: 3px;
+}
+.img-4
+{
+    position: relative;
+}
+.img-5
+{
+    position: absolute;
+    left:140px;
+    top:850px;
+}
+.img-6
+{
+    position: relative;
+}
+.img-7
+{
+    position: absolute;
+    top:300px;
+}
+.img-8
+{
+    position: absolute;
+    top:300px;
+}
+.text-8
+{
+    position:absolute;
+    top:20px;
+    left:40px;
+    font-weight: bold;
+}
+.text-9
+{
+    position:absolute;
+    top:20px;
+    left:40px;
+    font-weight: bold;
+    color: brown;
+}
+
